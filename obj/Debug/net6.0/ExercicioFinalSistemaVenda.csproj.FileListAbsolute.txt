@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\bin\Debug\net6.0\ExercicioFinalSistemaVenda.exe
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\bin\Debug\net6.0\ExercicioFinalSistemaVenda.deps.json
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\bin\Debug\net6.0\ExercicioFinalSistemaVenda.runtimeconfig.json
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\bin\Debug\net6.0\ExercicioFinalSistemaVenda.dll
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\bin\Debug\net6.0\ExercicioFinalSistemaVenda.pdb
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\ExercicioFinalSistemaVenda.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\ExercicioFinalSistemaVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\ExercicioFinalSistemaVenda.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\ExercicioFinalSistemaVenda.AssemblyInfo.cs
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\ExercicioFinalSistemaVenda.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\ExercicioFinalSistemaVenda.dll
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\refint\ExercicioFinalSistemaVenda.dll
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\ExercicioFinalSistemaVenda.pdb
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\ExercicioFinalSistemaVenda.genruntimeconfig.cache
+C:\Users\User\Desktop\EstudoC#\Secao8Enum\ExercicioFinalSistemaVenda\ExercicioFinalSistemaVenda\obj\Debug\net6.0\ref\ExercicioFinalSistemaVenda.dll
